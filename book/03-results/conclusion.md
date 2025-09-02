@@ -1,9 +1,9 @@
-# 4. Preliminary Conclusions and Open Questions
+# 2. Preliminary Conclusions and Open Questions
 
-## 4.1. Key Findings and the Importance of a Multidisciplinary Approach
+## 2.1. Key Findings and the Importance of a Multidisciplinary Approach
 This study illustrates the value of integrating satellite, in situ, and geochemical data to assess complex oceanographic phenomena triggered by volcanic activity. The preliminary results underscore how a multidisciplinary approach is essential for disentangling the physical, chemical, and biological responses of the ocean to the Hunga Tonga eruption.
 
-## 4.2. Insights on the Potential Phytoplankton Bloom
+## 2.2. Insights on the Potential Phytoplankton Bloom
 The Hunga Tonga volcano is mainly submarine and has not formed a large island yet in December 2021. Hence, we can clearly highlight anomalies in both BBP and CHl that are not linked to "island-processes", as can be seen at the neighboring Tonga islands.  
 
 We have a weak, but remarkable, excess (several pixels) in the very near-source on 20 December 2021 in the BBP (and also the CHL, even if weaker). This anomaly coincides with the first ash emissions associated with the submarine volcanic activity, released on 20 December. This supports the conclusion that both BBP and CHL excess signals do not result from the submarine volcanic activity but are associated with ash particles, either suspended in the atmosphere, or deposited onto the surface of the ocean.
@@ -18,7 +18,7 @@ After the major largest explosion taking place on 15 January 2022, the compariso
 
 To summarise, this set of data could shows that ash particles (either suspended in the atmosphere or deposited onto the ocean) impact immediately the BBP signal, whereas a time delay is required to trigger an increase in the CHL excess abundance, supporting an increase in the phytoplankton activity that requires some time to be produced.
 
-## 4.3. Open Questions and Areas for Further Investigation
+## 2.3. Open Questions and Areas for Further Investigation
 Several questions remain to be addressed to fully interpret the satellite signals and validate the hypothesized bloom mechanisms:
 
 ### Timing Accuracy of Satellite Products
